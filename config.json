@@ -1,0 +1,18 @@
+{
+  "server_id": 1,
+  "api_base_url": "http://localhost:8000",
+  "api_key": "YOUR_API_KEY_HERE",
+  "poll_interval_seconds": 3,
+  "join_timeout_minutes": 5,
+  "reconnect_grace_period_seconds": 120,
+  "round_time_seconds": 115,
+  "freeze_time_seconds": 15,
+  "team_swap_at_round": 9,
+  "max_rounds": 16,
+  "enable_demo_recording": true,
+  "demo_folder": "gotv",
+  "enable_skin_changer": true,
+  "skin_menu_command": "!guns",
+  "default_map": "de_dust2",
+  "debug_mode": true
+}
